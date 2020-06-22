@@ -1,0 +1,40 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+img:hover {
+  background-color: gold;
+  }
+  img{
+    height: 250px;
+    width: 240px;
+
+  }
+h1 {color: #66BFBF; font-size: 60px;}
+h1:hover{
+  background-color: pink;
+}
+h2{color: brown; font-size: 40px;}
+
+
+ol{font-size: 30px;}
+
+ ul{font-size: 30px;}
+
+ table{font-size: 100%;}
+
+.schooltable{
+  font-size: 45px;
+}
+.cseword{
+  font-size: 30px;
+  font-style: italic;
+}
